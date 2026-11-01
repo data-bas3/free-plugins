@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-01T23:53:22.767Z",
+  "site": {
+    "ogImage": "https://data-bas3.github.io/data/Free_vst.png",
+    "matomoUrl": "//auditory-lab.com/other/matomo/",
+    "matomoSiteId": "1"
+  },
+  "instruments": [
+    {
+      "title": "Wave Pads PRO",
+      "desc": "100 inspiring ambient pads and atmospheric soundscapes for instant creative flow.",
+      "url": "https://auditory-lab.com/wavepadspro.html",
+      "img": "https://auditory-lab.com/style/images/og-images/best-ambient-pads-vst-au-virtual-instrument.png",
+      "video": "FR0uVa8TUA8",
+      "tag": ""
+    },
+    {
+      "title": "Complete Kontakt Bundle",
+      "desc": "Everything you need for professional scoring and music production in one package.",
+      "url": "https://auditory-lab.com/CompleteKontakt.html",
+      "img": "https://auditory-lab.com/style/images/og-images/Complet-Kontakt-bundle-vst-plugins.png",
+      "video": "",
+      "tag": "BUNDLE"
+    },
+    {
+      "title": "Studio Bass",
+      "desc": "Realistic Bass guitar library with multiple articulations and authentic playing techniques.",
+      "url": "https://auditory-lab.com/bassguitar.html",
+      "img": "https://auditory-lab.com/style/images/product-gui/studio-bass/best-bass-guitar-vst-instrument-software.png",
+      "video": "IUd7pw9cmtk",
+      "tag": ""
+    },
+    {
+      "title": "Wave Leads PRO",
+      "desc": "Iconic synth leads for live performance.",
+      "url": "https://auditory-lab.com/waveleadspro.html",
+      "img": "https://auditory-lab.com/style/images/product-gui/wave-leads/neo-soul-rnb-lead-synth-smooth-vintage-analog.png",
+      "video": "X7b-Nc1I2aA",
+      "tag": "NEW"
+    },
+    {
+      "title": "Folk Accordion",
+      "desc": "Meticulously sampled Accordion plugin.",
+      "url": "https://auditory-lab.com/accordion.html",
+      "img": "https://auditory-lab.com/style/images/product-gui/accordion/accordion-vst-bandoneon-ethnic-accordion-harmonium-virtual-instrument.png",
+      "video": "",
+      "tag": ""
+    },
+    {
+      "title": "VST/AU Plugins Bundle",
+      "desc": "Complete plugin bundle for all your needs.",
+      "url": "https://auditory-lab.com/VST-AU-Plugins.html",
+      "img": "https://auditory-lab.com/style/images/og-images/complete-virtual-instruments-vst-au-plugins-bundle.png",
+      "video": "",
+      "tag": ""
+    },
+    {
+      "title": "Banjo V3",
+      "desc": "Professional Banjo virtual instrument.",
+      "url": "https://auditory-lab.com/Banjo.html",
+      "img": "https://auditory-lab.com/style/images/product-gui/banjo/virtual-banjo-vst-au-aax-plugin-bluegrass-country-folk-instrument-daw-software.png",
+      "video": "",
+      "tag": ""
+    },
+    {
+      "title": "African Percussion",
+      "desc": "West African percussion samples.",
+      "url": "https://auditory-lab.com/AfricanPercussion.html",
+      "img": "https://auditory-lab.com/style/images/product-gui/african-percussion/virtual-african-percussion-kit-plugin-vst-au-axx.png",
+      "video": "",
+      "tag": ""
+    },
+    {
+      "title": "Harmonica V2",
+      "desc": "Complete harmonica collection.",
+      "url": "https://auditory-lab.com/Harmonica.html",
+      "img": "https://auditory-lab.com/style/images/product-gui/harmonica/realistic-harmonica-sample-library.png",
+      "video": "",
+      "tag": ""
+    }
+  ]
+}
