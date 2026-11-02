@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T00:39:59.733Z",
+  "updatedAt": "2026-11-02T00:40:02.370Z",
   "site": {
     "ogImage": "https://data-bas3.github.io/data/Free_vst.png",
     "matomoUrl": "//auditory-lab.com/other/matomo/",
@@ -99,7 +99,7 @@
       "title": "",
       "desc": "",
       "url": "",
-      "img": "",
+      "img": "https://www.auditory-lab.com/style/images/product-gui/vibraphone/realistic-vibraphone-vst-virtual-instrument-plugin-best-mallet-percussion.png",
       "video": "lIPTDv_4b5Y",
       "tag": ""
     }
