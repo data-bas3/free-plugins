@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T23:53:26.635Z",
+  "updatedAt": "2026-11-02T00:37:16.386Z",
   "site": {
     "ogImage": "https://data-bas3.github.io/data/Free_vst.png",
     "matomoUrl": "//auditory-lab.com/other/matomo/",
@@ -76,6 +76,14 @@
       "desc": "Complete harmonica collection.",
       "url": "https://auditory-lab.com/Harmonica.html",
       "img": "https://auditory-lab.com/style/images/product-gui/harmonica/realistic-harmonica-sample-library.png",
+      "video": "",
+      "tag": ""
+    },
+    {
+      "title": "",
+      "desc": "",
+      "url": "",
+      "img": "",
       "video": "",
       "tag": ""
     }
